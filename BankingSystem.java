@@ -88,7 +88,7 @@ public class BankingSystem {
 
         load();
 
-        JFrame f = new JFrame("MiniBank System");
+        JFrame f = new JFrame("MicroBank System");
         f.setSize(800, 650);
         f.setLayout(new FlowLayout());
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
