@@ -78,7 +78,11 @@ micro-bank/
 
 ## Screenshots
 
-*(Add screenshots of your GUI here for better presentation)*
+### Main Interface
+![Main Page](screenshots/Main.png)
+
+### Application Under Use
+![Application Under Use](screenshots/UnderUse.png)
 
 ---
 
